@@ -191,7 +191,6 @@ TW_INCLUDE_CRYPTO := true
 TW_BRIGHTNESS_PATH := /sys/class/leds/lcd-backlight/brightness
 RECOVERY_GRAPHICS_USE_LINELENGTH := true
 BOARD_SUPPRESS_SECURE_ERASE := true
-TW_TARGET_USES_QCOM_BSP := true
 TW_NEW_ION_HEAP := true
 
 # RIL
